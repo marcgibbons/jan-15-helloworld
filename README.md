@@ -1,5 +1,5 @@
 # Hello world
 
-To run this program execute:
+To run this program executed:
 
 `$ python hello.py`
