@@ -1,7 +1,5 @@
 # Hello world
 
-This is my awesome, radical, project.
+To run this program execute:
 
-This is another edit.
-
-This is yet another edit.
+`$ python hello.py`
